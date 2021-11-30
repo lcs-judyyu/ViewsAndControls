@@ -25,6 +25,7 @@
 		0EDD80C2274DCF3100829555 /* ProgressViewExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EDD80C1274DCF3100829555 /* ProgressViewExample.swift */; };
 		0EDD80C4274DD0D500829555 /* SliderExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EDD80C3274DD0D500829555 /* SliderExample.swift */; };
 		0EDD80C6274DD2E800829555 /* StepperExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EDD80C5274DD2E800829555 /* StepperExample.swift */; };
+		5AF4A282275583CD005FB606 /* DurationPickerTestView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AF4A281275583CD005FB606 /* DurationPickerTestView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -47,6 +48,7 @@
 		0EDD80C1274DCF3100829555 /* ProgressViewExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgressViewExample.swift; sourceTree = "<group>"; };
 		0EDD80C3274DD0D500829555 /* SliderExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderExample.swift; sourceTree = "<group>"; };
 		0EDD80C5274DD2E800829555 /* StepperExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StepperExample.swift; sourceTree = "<group>"; };
+		5AF4A281275583CD005FB606 /* DurationPickerTestView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DurationPickerTestView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -118,6 +120,7 @@
 				0EDD80BA274DC5C500829555 /* MapExample.swift */,
 				0EDD80BC274DC7AB00829555 /* PickerExample.swift */,
 				0EDD80BF274DCB0800829555 /* DatePickerExample.swift */,
+				5AF4A281275583CD005FB606 /* DurationPickerTestView.swift */,
 				0EDD80C1274DCF3100829555 /* ProgressViewExample.swift */,
 				0EDD80C3274DD0D500829555 /* SliderExample.swift */,
 				0EDD80C5274DD2E800829555 /* StepperExample.swift */,
@@ -203,6 +206,7 @@
 				0EDD80B5274DC16900829555 /* ImageExample.swift in Sources */,
 				0EDD80A6274DB89200829555 /* ControlsListView.swift in Sources */,
 				0EDD80BB274DC5C500829555 /* MapExample.swift in Sources */,
+				5AF4A282275583CD005FB606 /* DurationPickerTestView.swift in Sources */,
 				0EDD8098274DB86B00829555 /* ViewsAndControlsApp.swift in Sources */,
 				0EDD80B7274DC37B00829555 /* ButtonExample.swift in Sources */,
 				0EDD80C2274DCF3100829555 /* ProgressViewExample.swift in Sources */,
