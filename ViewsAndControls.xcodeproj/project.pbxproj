@@ -29,7 +29,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		0EDD8094274DB86B00829555 /* ViewsAndControls.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ViewsAndControls.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		0EDD8094274DB86B00829555 /* Views & Controls.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Views & Controls.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0EDD8097274DB86B00829555 /* ViewsAndControlsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewsAndControlsApp.swift; sourceTree = "<group>"; };
 		0EDD809B274DB86D00829555 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0EDD809E274DB86D00829555 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
@@ -73,7 +73,7 @@
 		0EDD8095274DB86B00829555 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				0EDD8094274DB86B00829555 /* ViewsAndControls.app */,
+				0EDD8094274DB86B00829555 /* Views & Controls.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -145,7 +145,7 @@
 			);
 			name = ViewsAndControls;
 			productName = ViewsAndControls;
-			productReference = 0EDD8094274DB86B00829555 /* ViewsAndControls.app */;
+			productReference = 0EDD8094274DB86B00829555 /* Views & Controls.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -345,7 +345,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"ViewsAndControls/Preview Content\"";
-				DEVELOPMENT_TEAM = C7DL9Y9A7R;
+				DEVELOPMENT_TEAM = C8463WT5QY;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -358,8 +358,8 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = ca.russellgordon.ViewsAndControls;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_BUNDLE_IDENTIFIER = ca.judyyu.ViewsAndControls;
+				PRODUCT_NAME = "Views & Controls";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -374,7 +374,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"ViewsAndControls/Preview Content\"";
-				DEVELOPMENT_TEAM = C7DL9Y9A7R;
+				DEVELOPMENT_TEAM = C8463WT5QY;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -387,8 +387,8 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = ca.russellgordon.ViewsAndControls;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_BUNDLE_IDENTIFIER = ca.judyyu.ViewsAndControls;
+				PRODUCT_NAME = "Views & Controls";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
